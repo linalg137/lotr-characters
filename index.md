@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Simple pages - main page
+title: Lotr characters
 ---
 
 This site is a template that you can copy to get started publishing your own
